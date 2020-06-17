@@ -9,7 +9,7 @@ To train the model and produce images out of it, run the following
 python main.py
 ```
 
-Additionally, one may pass other arguments through the command line to modify the hyperparameters of the model.
+Additionally, one may pass some arguments through the command line to modify the hyperparameters of the model.
 For instance, run
 ```
 python main.py -hl 5
