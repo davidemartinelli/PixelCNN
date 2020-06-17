@@ -1,5 +1,5 @@
 # PixelCNN
-Simple implementation of PixelCNN as described in https://arxiv.org/pdf/1601.06759.pdf.
+A simple pytorch implementation of PixelCNN as described in https://arxiv.org/pdf/1601.06759.pdf.
 
 The code is specific to binary data, and in particular to the BinarizedMNIST dataset. 
 Still, it can be modified easily to handle multinomial data.
